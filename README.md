@@ -1,3 +1,6 @@
+**This is pointless now for GPT's reasoning models, but has usecase for Gemini 2.5 for LLM code ingestion. 5/25**
+
+
 # Code Consolidator
 
 A modern GUI application that helps prepare your codebase for ChatGPT code review by consolidating multiple source files into a single, well-formatted text file.
